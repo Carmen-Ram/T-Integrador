@@ -1,0 +1,29 @@
+header {
+    background-color: rgb(33,37,41);
+}
+.ticket {
+    color:#97c93e;
+}
+#speakers {
+    margin: 50px;
+}
+.subtitulo {
+    font-size: smaller;
+}
+.btn-color {
+    background-color: #97c93e;
+    color: #fff;
+}
+footer {
+    background-color: #234558;
+    padding: 20px;
+    font-size:1.1em;
+}
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+footer a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
